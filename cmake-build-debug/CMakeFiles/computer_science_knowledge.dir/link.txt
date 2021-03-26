@@ -1,0 +1,3 @@
+D:\software\jetbrains-toolbox\install-path\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\computer_science_knowledge.dir/objects.a
+D:\software\mingw-64x\bin\ar.exe cr CMakeFiles\computer_science_knowledge.dir/objects.a @CMakeFiles\computer_science_knowledge.dir\objects1.rsp
+D:\software\mingw-64x\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\computer_science_knowledge.dir/objects.a -Wl,--no-whole-archive  -o computer_science_knowledge.exe -Wl,--out-implib,libcomputer_science_knowledge.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\computer_science_knowledge.dir\linklibs.rsp
