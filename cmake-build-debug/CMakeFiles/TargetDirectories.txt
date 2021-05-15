@@ -1,3 +1,0 @@
-F:/program/github/computer-science-knowledge/cmake-build-debug/CMakeFiles/computer_science_knowledge.dir
-F:/program/github/computer-science-knowledge/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/program/github/computer-science-knowledge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+{
+  "name": "computer-science-knowledge",
+  "version": "1.0.0",
+  "scripts": {
+    "baiduyun:download": "e: && cd E:\\baiduyundownload && hs -o",
+    "git:push": "git add . && git commit -m update && git push",
+    "git:open": "git open"
+  }
+}
